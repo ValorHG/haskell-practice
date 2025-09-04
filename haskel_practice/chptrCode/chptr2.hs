@@ -18,3 +18,5 @@ dinit = take (length xs - 1) xs
         xs = [1,2,3,4,5]
 
 rl xs = reverse (drop 1 (reverse xs))
+
+--Test push
